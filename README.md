@@ -34,5 +34,5 @@ gradle clean build
 ### run
 - Command
 ```
-java -jar target/interview-0.0.1-SNAPSHOT.jar
+java -jar build/libs/interview-0.0.1-SNAPSHOT.jar
 ```
