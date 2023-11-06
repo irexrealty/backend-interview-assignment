@@ -28,11 +28,11 @@ java -jar target/interview-0.0.1-SNAPSHOT.jar
 ### build
 - Command
 ```
-gradle clean build
+command
 ```
 
 ### run
 - Command
 ```
-java -jar target/interview-0.0.1-SNAPSHOT.jar
+command
 ```
